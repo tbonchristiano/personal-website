@@ -38,6 +38,9 @@ div {
     border-color: rgb(8, 208, 118);
     color:rgb(255, 255, 255)
 }
+p {
+    display: none;
+}
 @media(max-width:1000px) {
     img {
         border-radius: 200px;
